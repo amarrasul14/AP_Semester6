@@ -1,0 +1,5 @@
+Let x = 2
+Let y = 6
+x = 2 + 3
+y = y + 2
+print x
