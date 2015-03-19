@@ -1,0 +1,1 @@
+public void fastestWay(int timeStation[], int switchTime[], int entry[], int exitTime[], int totalTime1[], int totalTime[], int num){
